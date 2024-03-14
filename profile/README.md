@@ -1,4 +1,4 @@
-# README
+# Lviv JavaClub
 
 * Web site: https://www.javaclub.lviv.ua/
 * YouTube: https://www.youtube.com/@lvivjavaclub
